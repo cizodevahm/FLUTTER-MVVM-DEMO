@@ -53,7 +53,7 @@ Do you want to add more features? [Reach us out](https://https://cizotech.com/co
 # License
 ```MIT License
 
-Copyright (c) 2020 Shubham Chhimpa
+Copyright (c) 2024 CIZO
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
